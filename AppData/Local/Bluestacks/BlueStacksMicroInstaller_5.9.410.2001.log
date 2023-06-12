@@ -1,0 +1,382 @@
+﻿2022-11-20 04:48:44.606 15548:00000001 (BlueStacksInstaller) INFO: Successfully populated en-US strings
+2022-11-20 04:48:44.607 15548:00000001 (BlueStacksInstaller) INFO: Successfully populated en-US strings
+2022-11-20 04:48:44.628 15548:00000006 (BlueStacksInstaller) INFO: Old BGP version: 
+2022-11-20 04:48:44.628 15548:00000006 (BlueStacksInstaller) INFO: Arabica version: 
+2022-11-20 04:48:44.638 15548:00000001 (BlueStacksInstaller) INFO: Launching C:\Users\arunk\AppData\Local\Temp\7zS0F7343E9\:BlueStacksInstaller.exe "BlueStacksInstaller_5.9.410.2001_native_37e526dc0077736a6922819a0a8a3449_MDs1LDE7MTUsMzsxNQ==.exe"
+2022-11-20 04:48:44.655 15548:00000006 (BlueStacksInstaller) WARNING: Failed to set registry value at Software\BlueStacksInstaller for MachineID:53a8b1c3-d2bf-413d-931e-864a739d04c4
+2022-11-20 04:48:44.657 15548:00000006 (BlueStacksInstaller) WARNING: Failed to set registry value at Software\BlueStacksInstaller for VersionMachineId_5.9.410.2001:e5b7f183-fcf9-4fed-ae7a-11d17fda2a03
+2022-11-20 04:48:44.660 15548:00000006 (BlueStacksInstaller) INFO: vtx state of the machine: enabled
+2022-11-20 04:48:44.674 15548:00000006 (BlueStacksInstaller) INFO: Parent FileName: BlueStacksInstaller_5.9.410.2001_native_37e526dc0077736a6922819a0a8a3449_MDs1LDE7MTUsMzsxNQ==.exe
+2022-11-20 04:48:44.674 15548:00000006 (BlueStacksInstaller) INFO: Parsing: 37e526dc0077736a6922819a0a8a3449_MDs1LDE7MTUsMzsxNQ==
+2022-11-20 04:48:44.677 15548:00000006 (BlueStacksInstaller) INFO: Getting installed images from conf
+2022-11-20 04:48:44.677 15548:00000006 (BlueStacksInstaller) INFO: Installed images: 
+2022-11-20 04:48:44.680 15548:00000006 (BlueStacksInstaller) INFO: Getting installed images from conf
+2022-11-20 04:48:44.683 15548:00000006 (BlueStacksInstaller) INFO: Installed images with abi: 
+2022-11-20 04:48:44.686 15548:00000006 (BlueStacksInstaller) INFO: Updating DefaultImageName to Nougat32
+2022-11-20 04:48:44.686 15548:00000006 (BlueStacksInstaller) INFO: Updating ImageToLaunch to Nougat32
+2022-11-20 04:48:44.686 15548:00000006 (BlueStacksInstaller) INFO: Campaign: 37e526dc0077736a6922819a0a8a3449, AppName: , Image: Nougat32
+2022-11-20 04:48:44.686 15548:00000006 (BlueStacksInstaller) INFO: Sending event mi_launched
+2022-11-20 04:48:45.392 12644:00000001 (BlueStacksInstaller) INFO: Successfully populated en-US strings
+2022-11-20 04:48:45.392 12644:00000001 (BlueStacksInstaller) INFO: Successfully populated en-US strings
+2022-11-20 04:48:45.416 12644:00000006 (BlueStacksInstaller) INFO: Old BGP version: 
+2022-11-20 04:48:45.416 12644:00000001 (BlueStacksInstaller) INFO: Launching C:\Users\arunk\AppData\Local\Temp\7zS80A21FB8\:BlueStacksInstaller.exe "BlueStacksInstaller_5.9.410.2001_native_37e526dc0077736a6922819a0a8a3449_MDs1LDE7MTUsMzsxNQ==.exe"
+2022-11-20 04:48:45.416 12644:00000006 (BlueStacksInstaller) INFO: Arabica version: 
+2022-11-20 04:48:45.424 12644:00000006 (BlueStacksInstaller) INFO: vtx state of the machine: enabled
+2022-11-20 04:48:45.428 12644:00000006 (BlueStacksInstaller) INFO: Parent FileName: BlueStacksInstaller_5.9.410.2001_native_37e526dc0077736a6922819a0a8a3449_MDs1LDE7MTUsMzsxNQ==.exe
+2022-11-20 04:48:45.428 12644:00000006 (BlueStacksInstaller) INFO: Parsing: 37e526dc0077736a6922819a0a8a3449_MDs1LDE7MTUsMzsxNQ==
+2022-11-20 04:48:45.436 12644:00000006 (BlueStacksInstaller) INFO: Getting installed images from conf
+2022-11-20 04:48:45.436 12644:00000006 (BlueStacksInstaller) INFO: Installed images: 
+2022-11-20 04:48:45.436 12644:00000006 (BlueStacksInstaller) INFO: Getting installed images from conf
+2022-11-20 04:48:45.436 12644:00000006 (BlueStacksInstaller) INFO: Installed images with abi: 
+2022-11-20 04:48:45.436 12644:00000006 (BlueStacksInstaller) INFO: Updating DefaultImageName to Nougat32
+2022-11-20 04:48:45.436 12644:00000006 (BlueStacksInstaller) INFO: Updating ImageToLaunch to Nougat32
+2022-11-20 04:48:45.436 12644:00000006 (BlueStacksInstaller) INFO: Campaign: 37e526dc0077736a6922819a0a8a3449, AppName: , Image: Nougat32
+2022-11-20 04:48:45.436 12644:00000006 (BlueStacksInstaller) INFO: Sending event mi_launched
+2022-11-20 04:48:45.622 15548:00000006 (BlueStacksInstaller) INFO: Response for event mi_launched: {"fle_obj": {"app_url": "", "bsx_data": "{}", "app_name": "", "incompatible": "false", "app_icon_url": "", "fle_tag": "", "campaign_name": "homepage-dl-button-en", "exit_utm_campaign": "homepage-dl-button-en", "app_pkg": "", "promoter_id": ""}}
+2022-11-20 04:48:46.402 3492:00000001 (BlueStacksInstaller) INFO: Successfully populated en-US strings
+2022-11-20 04:48:46.402 3492:00000001 (BlueStacksInstaller) INFO: Successfully populated en-US strings
+2022-11-20 04:48:46.412 12644:00000006 (BlueStacksInstaller) INFO: Response for event mi_launched: {"fle_obj": {"app_url": "", "bsx_data": "{}", "app_name": "", "incompatible": "false", "app_icon_url": "", "fle_tag": "", "campaign_name": "homepage-dl-button-en", "exit_utm_campaign": "homepage-dl-button-en", "app_pkg": "", "promoter_id": ""}}
+2022-11-20 04:48:46.412 3492:00000006 (BlueStacksInstaller) INFO: Old BGP version: 
+2022-11-20 04:48:46.412 3492:00000006 (BlueStacksInstaller) INFO: Arabica version: 
+2022-11-20 04:48:46.412 3492:00000001 (BlueStacksInstaller) INFO: Launching C:\Users\arunk\AppData\Local\Temp\7zSCA7C2148\:BlueStacksInstaller.exe "BlueStacksInstaller_5.9.410.2001_native_37e526dc0077736a6922819a0a8a3449_MDs1LDE7MTUsMzsxNQ==.exe"
+2022-11-20 04:48:46.425 3492:00000006 (BlueStacksInstaller) INFO: vtx state of the machine: enabled
+2022-11-20 04:48:46.432 3492:00000006 (BlueStacksInstaller) INFO: Parent FileName: BlueStacksInstaller_5.9.410.2001_native_37e526dc0077736a6922819a0a8a3449_MDs1LDE7MTUsMzsxNQ==.exe
+2022-11-20 04:48:46.432 3492:00000006 (BlueStacksInstaller) INFO: Parsing: 37e526dc0077736a6922819a0a8a3449_MDs1LDE7MTUsMzsxNQ==
+2022-11-20 04:48:46.436 3492:00000006 (BlueStacksInstaller) INFO: Getting installed images from conf
+2022-11-20 04:48:46.436 3492:00000006 (BlueStacksInstaller) INFO: Installed images: 
+2022-11-20 04:48:46.436 3492:00000006 (BlueStacksInstaller) INFO: Getting installed images from conf
+2022-11-20 04:48:46.436 3492:00000006 (BlueStacksInstaller) INFO: Installed images with abi: 
+2022-11-20 04:48:46.436 3492:00000006 (BlueStacksInstaller) INFO: Updating DefaultImageName to Nougat32
+2022-11-20 04:48:46.436 3492:00000006 (BlueStacksInstaller) INFO: Updating ImageToLaunch to Nougat32
+2022-11-20 04:48:46.436 3492:00000006 (BlueStacksInstaller) INFO: Campaign: 37e526dc0077736a6922819a0a8a3449, AppName: , Image: Nougat32
+2022-11-20 04:48:46.436 3492:00000006 (BlueStacksInstaller) INFO: Sending event mi_launched
+2022-11-20 04:48:47.207 15548:00000001 (BlueStacksInstaller) ERROR: Couldnt start MI as admin. Ex: System.ComponentModel.Win32Exception (0x80004005): The operation was canceled by the user
+   at System.Diagnostics.Process.StartWithShellExecuteEx(ProcessStartInfo startInfo)
+   at BlueStacks.MicroInstaller.App.RunAdminInstallerAndExit()
+2022-11-20 04:48:47.287 3492:00000006 (BlueStacksInstaller) INFO: Response for event mi_launched: {"fle_obj": {"app_url": "", "bsx_data": "{}", "app_name": "", "incompatible": "false", "app_icon_url": "", "fle_tag": "", "campaign_name": "homepage-dl-button-en", "exit_utm_campaign": "homepage-dl-button-en", "app_pkg": "", "promoter_id": ""}}
+2022-11-20 04:48:49.801 15548:00000001 (BlueStacksInstaller) INFO: Launching C:\Users\arunk\AppData\Local\Temp\7zS0F7343E9\:BlueStacksInstaller.exe "BlueStacksInstaller_5.9.410.2001_native_37e526dc0077736a6922819a0a8a3449_MDs1LDE7MTUsMzsxNQ==.exe"
+2022-11-20 04:48:51.833 15548:00000001 (BlueStacksInstaller) ERROR: Couldnt start MI as admin. Ex: System.ComponentModel.Win32Exception (0x80004005): The operation was canceled by the user
+   at System.Diagnostics.Process.StartWithShellExecuteEx(ProcessStartInfo startInfo)
+   at BlueStacks.MicroInstaller.App.RunAdminInstallerAndExit()
+2022-11-20 04:48:54.685 15548:00000001 (BlueStacksInstaller) INFO: Uploading C:\Users\arunk\AppData\Local\BlueStacks\BlueStacksMicroInstaller_5.9.410.2001.log to https://cloud.bluestacks.com/_ah/upload/AMmfu6Y1MF57tTk4huDUxNoaB3_iRxVAni7L2Vhm3AljNaR1daCMvE3mW84Tb-kMHGtTJthzTB6Z4rVoD3CY9jDNMSf4TXyaqMRxp7SOp0L5h5q2cm7sh-lXIPKPPzFSp7Q4Hi1mn7sTIPqQh65KI2norccVbeEd8jUuBzve42z6aUNEo6QRbDc/ALBNUaYAAAAAY3lmqq9sz9N1VQNAuBpyyTMRjXylPSr2/
+2022-11-20 04:48:56.922 15548:00000001 (BlueStacksInstaller) INFO: File uploaded, server response is: 
+2022-11-20 04:48:56.922 15548:00000001 (BlueStacksInstaller) INFO: ExitApplication 6
+2022-11-20 04:49:15.592 15196:00000001 (BlueStacksInstaller) INFO: Successfully populated en-US strings
+2022-11-20 04:49:15.592 15196:00000001 (BlueStacksInstaller) INFO: Successfully populated en-US strings
+2022-11-20 04:49:15.592 15196:00000001 (BlueStacksInstaller) INFO: Application Main
+2022-11-20 04:49:15.605 15196:00000006 (BlueStacksInstaller) INFO: Old BGP version: 
+2022-11-20 04:49:15.605 15196:00000006 (BlueStacksInstaller) INFO: Arabica version: 
+2022-11-20 04:49:15.605 15196:00000006 (BlueStacksInstaller) INFO: vtx state of the machine: enabled
+2022-11-20 04:49:15.605 15196:00000006 (BlueStacksInstaller) INFO: Parent FileName: BlueStacksInstaller_5.9.410.2001_native_37e526dc0077736a6922819a0a8a3449_MDs1LDE7MTUsMzsxNQ==.exe
+2022-11-20 04:49:15.605 15196:00000006 (BlueStacksInstaller) INFO: Parsing: 37e526dc0077736a6922819a0a8a3449_MDs1LDE7MTUsMzsxNQ==
+2022-11-20 04:49:15.605 15196:00000006 (BlueStacksInstaller) INFO: Getting installed images from conf
+2022-11-20 04:49:15.605 15196:00000006 (BlueStacksInstaller) INFO: Installed images: 
+2022-11-20 04:49:15.605 15196:00000006 (BlueStacksInstaller) INFO: Getting installed images from conf
+2022-11-20 04:49:15.605 15196:00000006 (BlueStacksInstaller) INFO: Installed images with abi: 
+2022-11-20 04:49:15.621 15196:00000006 (BlueStacksInstaller) INFO: Updating DefaultImageName to Nougat32
+2022-11-20 04:49:15.621 15196:00000006 (BlueStacksInstaller) INFO: Updating ImageToLaunch to Nougat32
+2022-11-20 04:49:15.621 15196:00000006 (BlueStacksInstaller) INFO: Campaign: 37e526dc0077736a6922819a0a8a3449, AppName: , Image: Nougat32
+2022-11-20 04:49:15.621 15196:00000006 (BlueStacksInstaller) INFO: Sending event mi_admin_launched
+2022-11-20 04:49:15.623 15196:00000001 (BlueStacksInstaller) INFO: Application OnStartup
+2022-11-20 04:49:15.847 15196:00000008 (BlueStacksInstaller) INFO: Checking hyperv enabled
+2022-11-20 04:49:15.847 15196:00000008 (BlueStacksInstaller) INFO: RunCmd: Starting: C:\Users\arunk\AppData\Local\Temp\7zS80A21FB8\HD-CheckCpu.exe --cmd checkHypervEnabled
+2022-11-20 04:49:15.923 15196:00000008 (BlueStacksInstaller) INFO: RunCmd for pid: 13392, exited with ExitCode: -1 
+2022-11-20 04:49:15.924 15196:00000008 (BlueStacksInstaller) INFO: Checking SSE4 Available
+2022-11-20 04:49:15.924 15196:00000008 (BlueStacksInstaller) INFO: RunCmd: Starting: C:\Users\arunk\AppData\Local\Temp\7zS80A21FB8\HD-CheckCpu.exe --cmd checkSSE4
+2022-11-20 04:49:15.966 15196:00000008 (BlueStacksInstaller) INFO: RunCmd for pid: 8156, exited with ExitCode: 1 
+2022-11-20 04:49:15.966 15196:00000008 (BlueStacksInstaller) INFO: Initializing mi
+2022-11-20 04:49:15.968 15196:00000008 (BlueStacksInstaller) INFO: Fetching bsx details
+2022-11-20 04:49:16.599 15196:00000006 (BlueStacksInstaller) INFO: Response for event mi_admin_launched: 
+2022-11-20 04:49:17.606 15196:00000008 (BlueStacksInstaller) INFO: Install response: {"url": "https://cdn3.bluestacks.com/downloads/windows/bsx-launcher/0.18.52.2/301a8aea-75be-4954-bdc6-4a7678ed896a/BlueStacksX-Installer_0.18.52.2.exe", "update_url": "https://cdn3.bluestacks.com/downloads/windows/bsx-update/0.18.52.2/BlueStacks%20X-Update_0.18.52.2.exe", "bsx_version": "0.18.52.2", "default_installation": "bsx,bs5", "default_launch": "bs5"}
+2022-11-20 04:49:17.608 15196:00000008 (BlueStacksInstaller) INFO: Getting installed images from conf
+2022-11-20 04:49:17.608 15196:00000008 (BlueStacksInstaller) INFO: Installed images: 
+2022-11-20 04:49:17.608 15196:00000008 (BlueStacksInstaller) INFO: Getting installed images from conf
+2022-11-20 04:49:17.608 15196:00000008 (BlueStacksInstaller) INFO: Installed images: 
+2022-11-20 04:49:17.608 15196:00000008 (BlueStacksInstaller) INFO: Getting installed images from conf
+2022-11-20 04:49:17.609 15196:00000008 (BlueStacksInstaller) INFO: Installed images with abi: 
+2022-11-20 04:49:17.609 15196:00000008 (BlueStacksInstaller) INFO: DetectGuestImagesToDownload initializing
+2022-11-20 04:49:17.609 15196:00000008 (BlueStacksInstaller) INFO: Installation type is fresh: True
+2022-11-20 04:49:17.610 15196:00000008 (BlueStacksInstaller) INFO: Image List to be downloaded: Nougat32
+2022-11-20 04:49:17.610 15196:00000008 (BlueStacksInstaller) INFO: Initialization completed
+2022-11-20 04:49:17.612 15196:00000001 (BlueStacksInstaller) INFO: Returning PDDir: C:\ProgramData\BlueStacks_nxt
+2022-11-20 04:49:17.613 15196:00000001 (BlueStacksInstaller) INFO: Returning PFDir: C:\Program Files\BlueStacks_nxt
+2022-11-20 04:49:17.656 15196:00000001 (BlueStacksInstaller) INFO: Showing mainwindow
+2022-11-20 04:49:22.894 3492:00000001 (BlueStacksInstaller) ERROR: Couldnt start MI as admin. Ex: System.ComponentModel.Win32Exception (0x80004005): The operation was canceled by the user
+   at System.Diagnostics.Process.StartWithShellExecuteEx(ProcessStartInfo startInfo)
+   at BlueStacks.MicroInstaller.App.RunAdminInstallerAndExit()
+2022-11-20 04:49:25.730 3492:00000001 (BlueStacksInstaller) INFO: Uploading C:\Users\arunk\AppData\Local\BlueStacks\BlueStacksMicroInstaller_5.9.410.2001.log to https://cloud.bluestacks.com/_ah/upload/AMmfu6bjt5rBKGOf-fcztOZWraJTqRvYA8XPdn57zSG4anH_UEy5AGhj-LBt9VC_K65d7Hb9-oOnLSmxGl-Ni3D0e7TaH1yzYcHlOktk9oxrJQyee17Xn43Ii1U3w3F1o440aGYiMzECu93L6jOarAl4kjrFTVfm-v6MPASVH46E_6uAb-fm7Vg/ALBNUaYAAAAAY3lmyRTN6MD3ErvYcVJH5m0tQBa__Wjh/
+2022-11-20 04:49:28.037 3492:00000001 (BlueStacksInstaller) INFO: File uploaded, server response is: 
+2022-11-20 04:49:28.038 3492:00000001 (BlueStacksInstaller) INFO: ExitApplication 6
+2022-11-20 04:49:34.784 15196:00000001 (BlueStacksInstaller) INFO: Checking for supported OS
+2022-11-20 04:49:34.785 15196:00000001 (BlueStacksInstaller) INFO: Operating system details: Windows 10 64-bit
+2022-11-20 04:49:34.785 15196:00000001 (BlueStacksInstaller) INFO: OS Info: Name: 10, Service Pack: , Arch: 64-bit, Ver: 10.0
+2022-11-20 04:49:34.960 15196:00000001 (BlueStacksInstaller) INFO: Checking for physical memory
+2022-11-20 04:49:34.971 15196:00000001 (BlueStacksInstaller) INFO: Available: 7930 MB, Required: 1024 MB
+2022-11-20 04:49:34.980 15196:00000001 (BlueStacksInstaller) INFO: HDD space available InstallDir: 190542 MB
+2022-11-20 04:49:34.982 15196:00000001 (BlueStacksInstaller) INFO: checking path:C:\ProgramData\BlueStacks_nxt and attr:-1..
+2022-11-20 04:49:34.983 15196:00000001 (BlueStacksInstaller) INFO: checking path:C:\ProgramData and attr:Hidden, Directory, NotContentIndexed..
+2022-11-20 04:49:34.983 15196:00000001 (BlueStacksInstaller) INFO: checking path:C:\Users\arunk\AppData\Local\Temp\ and attr:Directory..
+2022-11-20 04:49:34.983 15196:00000001 (BlueStacksInstaller) INFO: checking path:C:\Users\arunk\AppData\Local\Temp and attr:Directory..
+2022-11-20 04:49:34.983 15196:00000001 (BlueStacksInstaller) INFO: checking path:C:\Users\arunk\AppData\Local and attr:Directory..
+2022-11-20 04:49:34.984 15196:00000001 (BlueStacksInstaller) INFO: checking path:C:\Users\arunk\AppData and attr:Hidden, Directory..
+2022-11-20 04:49:34.984 15196:00000001 (BlueStacksInstaller) INFO: checking path:C:\Users\arunk and attr:Directory..
+2022-11-20 04:49:34.984 15196:00000001 (BlueStacksInstaller) INFO: checking path:C:\Users and attr:ReadOnly, Directory..
+2022-11-20 04:49:34.984 15196:00000001 (BlueStacksInstaller) INFO: Data and InstallDir same: True
+2022-11-20 04:49:34.984 15196:00000001 (BlueStacksInstaller) INFO: Space required InstallDir: 1300 MB
+2022-11-20 04:49:34.984 15196:00000001 (BlueStacksInstaller) INFO: Space required DataDir: 5120 MB
+2022-11-20 04:49:34.984 15196:00000001 (BlueStacksInstaller) INFO: Space required total: 6420
+2022-11-20 04:49:34.984 15196:00000001 (BlueStacksInstaller) INFO: Space available: 190542 MB
+2022-11-20 04:49:34.989 15196:00000001 (BlueStacksInstaller) INFO: Temp download path: C:\Users\arunk\AppData\Local\Temp\BlueStacksInstaller_5.9.410.2001_native_37e526dc0077736a6922819a0a8a3449_MDs1LDE7MTUsMzsxNQ==.exe
+2022-11-20 04:49:34.989 15196:00000001 (BlueStacksInstaller) INFO: Installer file path: C:\Users\arunk\AppData\Local\BlueStacksSetup\BlueStacksInstaller_5.9.410.2001_native_37e526dc0077736a6922819a0a8a3449_MDs1LDE7MTUsMzsxNQ==.exe
+2022-11-20 04:49:34.989 15196:00000015 (BlueStacksInstaller) INFO: Will download images later: Nougat32
+2022-11-20 04:49:34.989 15196:00000015 (BlueStacksInstaller) INFO: Starting downloader of BSX
+2022-11-20 04:49:34.992 15196:00000015 (BlueStacksInstaller) INFO: Downloading BSX installer at C:\Users\arunk\AppData\Local\BlueStacksSetup\BSX-Setup-5.9.410.2001.exe
+2022-11-20 04:49:37.669 15196:00000009 (BlueStacksInstaller) INFO: LastRecorded: 0, Downloaded: 3925786
+2022-11-20 04:49:40.749 15196:00000001 (BlueStacksInstaller) WARNING: Returning a null image for Assets\installer_logo_hover.png
+2022-11-20 04:49:42.683 15196:0000000C (BlueStacksInstaller) INFO: LastRecorded: 3925786, Downloaded: 19358932
+2022-11-20 04:49:47.686 15196:0000000B (BlueStacksInstaller) INFO: LastRecorded: 19358932, Downloaded: 38348542
+2022-11-20 04:49:52.702 15196:0000000A (BlueStacksInstaller) INFO: LastRecorded: 38348542, Downloaded: 62235882
+2022-11-20 04:49:57.715 15196:00000009 (BlueStacksInstaller) INFO: LastRecorded: 62235882, Downloaded: 85785114
+2022-11-20 04:50:02.718 15196:00000009 (BlueStacksInstaller) INFO: LastRecorded: 85785114, Downloaded: 107904570
+2022-11-20 04:50:07.737 15196:0000000C (BlueStacksInstaller) INFO: LastRecorded: 107904570, Downloaded: 132689690
+2022-11-20 04:50:12.755 15196:00000009 (BlueStacksInstaller) INFO: LastRecorded: 132689690, Downloaded: 152357480
+2022-11-20 04:50:17.508 15196:00000013 (BlueStacksInstaller) INFO: Starting installation of BSX
+2022-11-20 04:50:17.509 15196:00000015 (BlueStacksInstaller) INFO: Downloading Nougat32 at C:\ProgramData\Nougat32_5.9.410.2001.7z
+2022-11-20 04:50:17.509 15196:00000013 (BlueStacksInstaller) INFO: C:\Users\arunk\AppData\Local\BlueStacksSetup\BSX-Setup-5.9.410.2001.exe -s
+2022-11-20 04:50:17.772 15196:00000009 (BlueStacksInstaller) INFO: LastRecorded: 152362578, Downloaded: 439507
+2022-11-20 04:50:22.787 15196:0000000B (BlueStacksInstaller) INFO: LastRecorded: 439507, Downloaded: 20676695
+2022-11-20 04:50:27.789 15196:00000014 (BlueStacksInstaller) INFO: LastRecorded: 20676695, Downloaded: 43026869
+2022-11-20 04:50:32.804 15196:00000014 (BlueStacksInstaller) INFO: LastRecorded: 43026869, Downloaded: 63858257
+2022-11-20 04:50:37.804 15196:0000000B (BlueStacksInstaller) INFO: LastRecorded: 63858257, Downloaded: 83852749
+2022-11-20 04:50:38.145 15196:00000013 (BlueStacksInstaller) INFO: C:\Users\arunk\AppData\Local\BlueStacksSetup\BSX-Setup-5.9.410.2001.exe exited with ExitCode: 0
+2022-11-20 04:50:42.825 15196:0000000B (BlueStacksInstaller) INFO: LastRecorded: 83852749, Downloaded: 105038945
+2022-11-20 04:50:47.827 15196:0000000B (BlueStacksInstaller) INFO: LastRecorded: 105038945, Downloaded: 125475225
+2022-11-20 04:50:50.587 15196:00000001 (BlueStacksInstaller) WARNING: Returning a null image for Assets\installer_logo_click.png
+2022-11-20 04:50:52.841 15196:0000000B (BlueStacksInstaller) INFO: LastRecorded: 125475225, Downloaded: 144310661
+2022-11-20 04:50:57.844 15196:0000000B (BlueStacksInstaller) INFO: LastRecorded: 144310661, Downloaded: 166102459
+2022-11-20 04:51:02.845 15196:00000010 (BlueStacksInstaller) INFO: LastRecorded: 166102459, Downloaded: 186940951
+2022-11-20 04:51:07.847 15196:00000009 (BlueStacksInstaller) INFO: LastRecorded: 186940951, Downloaded: 211054393
+2022-11-20 04:51:12.854 15196:00000010 (BlueStacksInstaller) INFO: LastRecorded: 211054393, Downloaded: 231999591
+2022-11-20 04:51:17.868 15196:00000009 (BlueStacksInstaller) INFO: LastRecorded: 231999591, Downloaded: 252024031
+2022-11-20 04:51:22.873 15196:00000010 (BlueStacksInstaller) INFO: LastRecorded: 252024031, Downloaded: 271132255
+2022-11-20 04:51:27.887 15196:0000000C (BlueStacksInstaller) INFO: LastRecorded: 271132255, Downloaded: 289821413
+2022-11-20 04:51:32.892 15196:00000009 (BlueStacksInstaller) INFO: LastRecorded: 289821413, Downloaded: 302580323
+2022-11-20 04:51:37.905 15196:0000000C (BlueStacksInstaller) INFO: LastRecorded: 302580323, Downloaded: 315700797
+2022-11-20 04:51:42.923 15196:0000000C (BlueStacksInstaller) INFO: LastRecorded: 315700797, Downloaded: 337442005
+2022-11-20 04:51:47.934 15196:00000009 (BlueStacksInstaller) INFO: LastRecorded: 337442005, Downloaded: 353616483
+2022-11-20 04:51:52.938 15196:00000009 (BlueStacksInstaller) INFO: LastRecorded: 353616483, Downloaded: 369332267
+2022-11-20 04:51:57.955 15196:00000009 (BlueStacksInstaller) INFO: LastRecorded: 369332267, Downloaded: 379971007
+2022-11-20 04:52:02.997 15196:00000009 (BlueStacksInstaller) INFO: LastRecorded: 379971007, Downloaded: 393142215
+2022-11-20 04:52:08.001 15196:00000014 (BlueStacksInstaller) INFO: LastRecorded: 393142215, Downloaded: 404780661
+2022-11-20 04:52:13.007 15196:00000009 (BlueStacksInstaller) INFO: LastRecorded: 404780661, Downloaded: 417172309
+2022-11-20 04:52:18.008 15196:00000009 (BlueStacksInstaller) INFO: LastRecorded: 417172309, Downloaded: 432012453
+2022-11-20 04:52:22.704 15196:00000015 (BlueStacksInstaller) INFO: Download completed for Nougat32
+2022-11-20 04:52:29.086 15196:00000015 (BlueStacksInstaller) INFO: Downloading full installer at C:\Users\arunk\AppData\Local\Temp\BlueStacksInstaller_5.9.410.2001_native_37e526dc0077736a6922819a0a8a3449_MDs1LDE7MTUsMzsxNQ==.exe
+2022-11-20 04:52:33.041 15196:00000010 (BlueStacksInstaller) INFO: LastRecorded: 432012453, Downloaded: 16492611
+2022-11-20 04:52:38.052 15196:00000009 (BlueStacksInstaller) INFO: LastRecorded: 16492611, Downloaded: 40051435
+2022-11-20 04:52:43.060 15196:0000000B (BlueStacksInstaller) INFO: LastRecorded: 40051435, Downloaded: 59430165
+2022-11-20 04:52:46.239 15196:00000015 (BlueStacksInstaller) INFO: MIsDownloading false
+2022-11-20 04:52:46.246 15196:0000000A (BlueStacksInstaller) INFO: Installer file moved from C:\Users\arunk\AppData\Local\Temp\BlueStacksInstaller_5.9.410.2001_native_37e526dc0077736a6922819a0a8a3449_MDs1LDE7MTUsMzsxNQ==.exe to C:\Users\arunk\AppData\Local\BlueStacksSetup\BlueStacksInstaller_5.9.410.2001_native_37e526dc0077736a6922819a0a8a3449_MDs1LDE7MTUsMzsxNQ==.exe
+2022-11-20 04:52:46.247 15196:0000000A (BlueStacksInstaller) INFO: Running Installer process C:\Users\arunk\AppData\Local\BlueStacksSetup\BlueStacksInstaller_5.9.410.2001_native_37e526dc0077736a6922819a0a8a3449_MDs1LDE7MTUsMzsxNQ==.exe args :-versionMachineID=e5b7f183-fcf9-4fed-ae7a-11d17fda2a03 -machineID=53a8b1c3-d2bf-413d-931e-864a739d04c4 -pddir="C:\ProgramData\BlueStacks_nxt" -defaultImageName=Nougat32 -imageToLaunch=Nougat32 -isSSE4Available=1 -appToLaunch=bs5 -bsxVersion=0.18.52.2 -country=IN
+2022-11-20 04:55:52.351 15196:0000000A (BlueStacksInstaller) INFO: Full installer process finished with ExitCode: 5
+2022-11-20 04:55:52.351 15196:0000000A (BlueStacksInstaller) INFO: Is user upgrading AND installing new image: False
+2022-11-20 04:55:52.354 15196:00000012 (BlueStacksInstaller) INFO: Getting installed images from conf
+2022-11-20 04:55:52.357 15196:00000012 (BlueStacksInstaller) INFO: Reading bluestacks.conf
+2022-11-20 04:55:52.357 15196:00000012 (BlueStacksInstaller) INFO: Updating DefaultImageName to Nougat32
+2022-11-20 04:55:52.358 15196:00000012 (BlueStacksInstaller) INFO: Installed images: Nougat32
+2022-11-20 04:55:52.358 15196:00000012 (BlueStacksInstaller) INFO: Getting installed images from conf
+2022-11-20 04:55:52.358 15196:00000012 (BlueStacksInstaller) INFO: Reading bluestacks.conf
+2022-11-20 04:55:52.361 15196:00000012 (BlueStacksInstaller) INFO: Updating DefaultImageName to Nougat32
+2022-11-20 04:55:52.361 15196:00000012 (BlueStacksInstaller) INFO: Installed images with abi: Nougat32;5
+2022-11-20 04:55:52.368 15196:00000012 (BlueStacksInstaller) INFO: Getting instance name with specific image and abi from conf
+2022-11-20 04:55:52.368 15196:00000012 (BlueStacksInstaller) INFO: Reading bluestacks.conf
+2022-11-20 04:55:52.379 15196:00000012 (BlueStacksInstaller) ERROR: Failed to parse fle campaign json. Ex : System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.ThrowHelper.ThrowKeyNotFoundException()
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at BlueStacks.MicroInstaller.App.<>c.<OnLatestVersionLaunchBlueStacks>b__25_1()
+2022-11-20 04:55:52.381 15196:00000012 (BlueStacksInstaller) INFO: In RunBlueStacks
+2022-11-20 04:55:52.381 15196:00000012 (BlueStacksInstaller) INFO: InstallDir: C:\Program Files\BlueStacks_nxt\
+2022-11-20 04:55:52.381 15196:00000012 (BlueStacksInstaller) INFO: C:\Program Files\BlueStacks_nxt\HD-Player.exe --instance Nougat32
+2022-11-20 04:55:52.447 15196:00000012 (BlueStacksInstaller) INFO: ExitApplication 0
+2022-11-20 04:55:54.295 12644:00000001 (BlueStacksInstaller) INFO: ExitApplication 0
+2022-11-21 13:54:46.488 13124:00000001 (BlueStacksInstaller) INFO: Successfully populated en-US strings
+2022-11-21 13:54:46.488 13124:00000001 (BlueStacksInstaller) INFO: Successfully populated en-US strings
+2022-11-21 13:54:46.504 13124:00000006 (BlueStacksInstaller) INFO: Old BGP version: 
+2022-11-21 13:54:46.504 13124:00000006 (BlueStacksInstaller) INFO: Arabica version: 
+2022-11-21 13:54:46.538 13124:00000001 (BlueStacksInstaller) INFO: Launching C:\Users\arunk\AppData\Local\Temp\7zSCA805ED3\:BlueStacksInstaller.exe "BlueStacksInstaller_5.9.410.2001_native_62b4bc488618ed2cc0adf41c4a869122_MDs1LDE7MTUsMzsxNQ==.exe"
+2022-11-21 13:54:46.586 13124:00000006 (BlueStacksInstaller) INFO: vtx state of the machine: enabled
+2022-11-21 13:54:46.622 13124:00000006 (BlueStacksInstaller) INFO: Parent FileName: BlueStacksInstaller_5.9.410.2001_native_62b4bc488618ed2cc0adf41c4a869122_MDs1LDE7MTUsMzsxNQ==.exe
+2022-11-21 13:54:46.622 13124:00000006 (BlueStacksInstaller) INFO: Parsing: 62b4bc488618ed2cc0adf41c4a869122_MDs1LDE7MTUsMzsxNQ==
+2022-11-21 13:54:46.627 13124:00000006 (BlueStacksInstaller) INFO: Getting installed images from conf
+2022-11-21 13:54:46.627 13124:00000006 (BlueStacksInstaller) INFO: Installed images: 
+2022-11-21 13:54:46.628 13124:00000006 (BlueStacksInstaller) INFO: Getting installed images from conf
+2022-11-21 13:54:46.638 13124:00000006 (BlueStacksInstaller) INFO: Installed images with abi: 
+2022-11-21 13:54:46.640 13124:00000006 (BlueStacksInstaller) INFO: Updating DefaultImageName to Nougat32
+2022-11-21 13:54:46.640 13124:00000006 (BlueStacksInstaller) INFO: Updating ImageToLaunch to Nougat32
+2022-11-21 13:54:46.640 13124:00000006 (BlueStacksInstaller) INFO: Campaign: 62b4bc488618ed2cc0adf41c4a869122, AppName: , Image: Nougat32
+2022-11-21 13:54:46.640 13124:00000006 (BlueStacksInstaller) INFO: Sending event mi_launched
+2022-11-21 13:54:47.458 13124:00000006 (BlueStacksInstaller) INFO: Response for event mi_launched: {"fle_obj": {"app_url": "", "bsx_data": "{}", "app_name": "", "incompatible": "false", "app_icon_url": "", "fle_tag": "", "campaign_name": "homepage-dl-button-en", "exit_utm_campaign": "homepage-dl-button-en", "app_pkg": "", "promoter_id": ""}}
+2022-11-21 13:54:49.303 5860:00000001 (BlueStacksInstaller) INFO: Successfully populated en-US strings
+2022-11-21 13:54:49.303 5860:00000001 (BlueStacksInstaller) INFO: Successfully populated en-US strings
+2022-11-21 13:54:49.313 5860:00000001 (BlueStacksInstaller) INFO: Launching C:\Users\arunk\AppData\Local\Temp\7zS46F0AE43\:BlueStacksInstaller.exe "BlueStacksInstaller_5.9.410.2001_native_62b4bc488618ed2cc0adf41c4a869122_MDs1LDE7MTUsMzsxNQ==.exe"
+2022-11-21 13:54:49.313 5860:00000006 (BlueStacksInstaller) INFO: Old BGP version: 
+2022-11-21 13:54:49.313 5860:00000006 (BlueStacksInstaller) INFO: Arabica version: 
+2022-11-21 13:54:49.323 5860:00000006 (BlueStacksInstaller) INFO: vtx state of the machine: enabled
+2022-11-21 13:54:49.326 5860:00000006 (BlueStacksInstaller) INFO: Parent FileName: BlueStacksInstaller_5.9.410.2001_native_62b4bc488618ed2cc0adf41c4a869122_MDs1LDE7MTUsMzsxNQ==.exe
+2022-11-21 13:54:49.326 5860:00000006 (BlueStacksInstaller) INFO: Parsing: 62b4bc488618ed2cc0adf41c4a869122_MDs1LDE7MTUsMzsxNQ==
+2022-11-21 13:54:49.326 5860:00000006 (BlueStacksInstaller) INFO: Getting installed images from conf
+2022-11-21 13:54:49.326 5860:00000006 (BlueStacksInstaller) INFO: Installed images: 
+2022-11-21 13:54:49.331 5860:00000006 (BlueStacksInstaller) INFO: Getting installed images from conf
+2022-11-21 13:54:49.331 5860:00000006 (BlueStacksInstaller) INFO: Installed images with abi: 
+2022-11-21 13:54:49.331 5860:00000006 (BlueStacksInstaller) INFO: Updating DefaultImageName to Nougat32
+2022-11-21 13:54:49.333 5860:00000006 (BlueStacksInstaller) INFO: Updating ImageToLaunch to Nougat32
+2022-11-21 13:54:49.333 5860:00000006 (BlueStacksInstaller) INFO: Campaign: 62b4bc488618ed2cc0adf41c4a869122, AppName: , Image: Nougat32
+2022-11-21 13:54:49.333 5860:00000006 (BlueStacksInstaller) INFO: Sending event mi_launched
+2022-11-21 13:54:50.015 5860:00000006 (BlueStacksInstaller) INFO: Response for event mi_launched: {"fle_obj": {"app_url": "", "bsx_data": "{}", "app_name": "", "incompatible": "false", "app_icon_url": "", "fle_tag": "", "campaign_name": "homepage-dl-button-en", "exit_utm_campaign": "homepage-dl-button-en", "app_pkg": "", "promoter_id": ""}}
+2022-11-21 13:54:50.085 7416:00000001 (BlueStacksInstaller) INFO: Successfully populated en-US strings
+2022-11-21 13:54:50.085 7416:00000001 (BlueStacksInstaller) INFO: Successfully populated en-US strings
+2022-11-21 13:54:50.100 7416:00000001 (BlueStacksInstaller) INFO: Launching C:\Users\arunk\AppData\Local\Temp\7zS8F9898A3\:BlueStacksInstaller.exe "BlueStacksInstaller_5.9.410.2001_native_62b4bc488618ed2cc0adf41c4a869122_MDs1LDE7MTUsMzsxNQ==.exe"
+2022-11-21 13:54:50.100 7416:00000006 (BlueStacksInstaller) INFO: Old BGP version: 
+2022-11-21 13:54:50.100 7416:00000006 (BlueStacksInstaller) INFO: Arabica version: 
+2022-11-21 13:54:50.110 7416:00000006 (BlueStacksInstaller) INFO: vtx state of the machine: enabled
+2022-11-21 13:54:50.115 7416:00000006 (BlueStacksInstaller) INFO: Parent FileName: BlueStacksInstaller_5.9.410.2001_native_62b4bc488618ed2cc0adf41c4a869122_MDs1LDE7MTUsMzsxNQ==.exe
+2022-11-21 13:54:50.115 7416:00000006 (BlueStacksInstaller) INFO: Parsing: 62b4bc488618ed2cc0adf41c4a869122_MDs1LDE7MTUsMzsxNQ==
+2022-11-21 13:54:50.115 7416:00000006 (BlueStacksInstaller) INFO: Getting installed images from conf
+2022-11-21 13:54:50.115 7416:00000006 (BlueStacksInstaller) INFO: Installed images: 
+2022-11-21 13:54:50.115 7416:00000006 (BlueStacksInstaller) INFO: Getting installed images from conf
+2022-11-21 13:54:50.119 7416:00000006 (BlueStacksInstaller) INFO: Installed images with abi: 
+2022-11-21 13:54:50.119 7416:00000006 (BlueStacksInstaller) INFO: Updating DefaultImageName to Nougat32
+2022-11-21 13:54:50.119 7416:00000006 (BlueStacksInstaller) INFO: Updating ImageToLaunch to Nougat32
+2022-11-21 13:54:50.119 7416:00000006 (BlueStacksInstaller) INFO: Campaign: 62b4bc488618ed2cc0adf41c4a869122, AppName: , Image: Nougat32
+2022-11-21 13:54:50.119 7416:00000006 (BlueStacksInstaller) INFO: Sending event mi_launched
+2022-11-21 13:54:50.556 11128:00000001 (BlueStacksInstaller) INFO: Successfully populated en-US strings
+2022-11-21 13:54:50.556 11128:00000001 (BlueStacksInstaller) INFO: Successfully populated en-US strings
+2022-11-21 13:54:50.567 11128:00000001 (BlueStacksInstaller) INFO: Application Main
+2022-11-21 13:54:50.575 11128:00000006 (BlueStacksInstaller) INFO: Old BGP version: 
+2022-11-21 13:54:50.575 11128:00000006 (BlueStacksInstaller) INFO: Arabica version: 
+2022-11-21 13:54:50.577 11128:00000006 (BlueStacksInstaller) INFO: vtx state of the machine: enabled
+2022-11-21 13:54:50.585 11128:00000006 (BlueStacksInstaller) INFO: Parent FileName: BlueStacksInstaller_5.9.410.2001_native_62b4bc488618ed2cc0adf41c4a869122_MDs1LDE7MTUsMzsxNQ==.exe
+2022-11-21 13:54:50.585 11128:00000006 (BlueStacksInstaller) INFO: Parsing: 62b4bc488618ed2cc0adf41c4a869122_MDs1LDE7MTUsMzsxNQ==
+2022-11-21 13:54:50.585 11128:00000006 (BlueStacksInstaller) INFO: Getting installed images from conf
+2022-11-21 13:54:50.585 11128:00000006 (BlueStacksInstaller) INFO: Installed images: 
+2022-11-21 13:54:50.585 11128:00000006 (BlueStacksInstaller) INFO: Getting installed images from conf
+2022-11-21 13:54:50.585 11128:00000006 (BlueStacksInstaller) INFO: Installed images with abi: 
+2022-11-21 13:54:50.585 11128:00000006 (BlueStacksInstaller) INFO: Updating DefaultImageName to Nougat32
+2022-11-21 13:54:50.585 11128:00000006 (BlueStacksInstaller) INFO: Updating ImageToLaunch to Nougat32
+2022-11-21 13:54:50.585 11128:00000006 (BlueStacksInstaller) INFO: Campaign: 62b4bc488618ed2cc0adf41c4a869122, AppName: , Image: Nougat32
+2022-11-21 13:54:50.585 11128:00000006 (BlueStacksInstaller) INFO: Sending event mi_admin_launched
+2022-11-21 13:54:50.658 11128:00000001 (BlueStacksInstaller) INFO: Application OnStartup
+2022-11-21 13:54:50.856 7416:00000006 (BlueStacksInstaller) INFO: Response for event mi_launched: {"fle_obj": {"app_url": "", "bsx_data": "{}", "app_name": "", "incompatible": "false", "app_icon_url": "", "fle_tag": "", "campaign_name": "homepage-dl-button-en", "exit_utm_campaign": "homepage-dl-button-en", "app_pkg": "", "promoter_id": ""}}
+2022-11-21 13:54:51.093 11128:00000008 (BlueStacksInstaller) INFO: Checking hyperv enabled
+2022-11-21 13:54:51.094 11128:00000008 (BlueStacksInstaller) INFO: RunCmd: Starting: C:\Users\arunk\AppData\Local\Temp\7zSCA805ED3\HD-CheckCpu.exe --cmd checkHypervEnabled
+2022-11-21 13:54:51.152 11128:00000008 (BlueStacksInstaller) INFO: RunCmd for pid: 7572, exited with ExitCode: -1 
+2022-11-21 13:54:51.152 11128:00000008 (BlueStacksInstaller) INFO: Checking SSE4 Available
+2022-11-21 13:54:51.153 11128:00000008 (BlueStacksInstaller) INFO: RunCmd: Starting: C:\Users\arunk\AppData\Local\Temp\7zSCA805ED3\HD-CheckCpu.exe --cmd checkSSE4
+2022-11-21 13:54:51.187 11128:00000008 (BlueStacksInstaller) INFO: RunCmd for pid: 13224, exited with ExitCode: 1 
+2022-11-21 13:54:51.188 11128:00000008 (BlueStacksInstaller) INFO: Initializing mi
+2022-11-21 13:54:51.190 11128:00000008 (BlueStacksInstaller) INFO: Fetching bsx details
+2022-11-21 13:54:51.205 11128:00000006 (BlueStacksInstaller) INFO: Response for event mi_admin_launched: 
+2022-11-21 13:54:52.053 11128:00000008 (BlueStacksInstaller) INFO: Install response: {"url": "https://cdn3.bluestacks.com/downloads/windows/bsx-launcher/0.18.52.2/301a8aea-75be-4954-bdc6-4a7678ed896a/BlueStacksX-Installer_0.18.52.2.exe", "update_url": "https://cdn3.bluestacks.com/downloads/windows/bsx-update/0.18.52.2/BlueStacks%20X-Update_0.18.52.2.exe", "bsx_version": "0.18.52.2", "default_installation": "bsx,bs5", "default_launch": "bs5"}
+2022-11-21 13:54:52.057 11128:00000008 (BlueStacksInstaller) INFO: Getting installed images from conf
+2022-11-21 13:54:52.057 11128:00000008 (BlueStacksInstaller) INFO: Installed images: 
+2022-11-21 13:54:52.057 11128:00000008 (BlueStacksInstaller) INFO: Getting installed images from conf
+2022-11-21 13:54:52.057 11128:00000008 (BlueStacksInstaller) INFO: Installed images: 
+2022-11-21 13:54:52.057 11128:00000008 (BlueStacksInstaller) INFO: Getting installed images from conf
+2022-11-21 13:54:52.057 11128:00000008 (BlueStacksInstaller) INFO: Installed images with abi: 
+2022-11-21 13:54:52.057 11128:00000008 (BlueStacksInstaller) INFO: DetectGuestImagesToDownload initializing
+2022-11-21 13:54:52.058 11128:00000008 (BlueStacksInstaller) INFO: Installation type is fresh: True
+2022-11-21 13:54:52.058 11128:00000008 (BlueStacksInstaller) INFO: Image List to be downloaded: Nougat32
+2022-11-21 13:54:52.059 11128:00000008 (BlueStacksInstaller) INFO: Initialization completed
+2022-11-21 13:54:52.062 11128:00000001 (BlueStacksInstaller) INFO: Returning PDDir: C:\ProgramData\BlueStacks_nxt
+2022-11-21 13:54:52.063 11128:00000001 (BlueStacksInstaller) INFO: Returning PFDir: C:\Program Files\BlueStacks_nxt
+2022-11-21 13:54:52.158 11128:00000001 (BlueStacksInstaller) INFO: Showing mainwindow
+2022-11-21 13:54:52.189 10564:00000001 (BlueStacksInstaller) INFO: Successfully populated en-US strings
+2022-11-21 13:54:52.189 10564:00000001 (BlueStacksInstaller) INFO: Successfully populated en-US strings
+2022-11-21 13:54:52.206 10564:00000001 (BlueStacksInstaller) INFO: Global\BlueStacks_MicroInstaller_Locknxt lock taken
+2022-11-21 13:54:57.284 10564:00000001 (BlueStacksInstaller) INFO: ExitApplication -1
+2022-11-21 13:54:57.700 5860:00000001 (BlueStacksInstaller) INFO: ExitApplication -1
+2022-11-21 13:54:59.181 11128:00000001 (BlueStacksInstaller) INFO: Checking for supported OS
+2022-11-21 13:54:59.184 11128:00000001 (BlueStacksInstaller) INFO: Operating system details: Windows 10 64-bit
+2022-11-21 13:54:59.184 11128:00000001 (BlueStacksInstaller) INFO: OS Info: Name: 10, Service Pack: , Arch: 64-bit, Ver: 10.0
+2022-11-21 13:54:59.405 11128:00000001 (BlueStacksInstaller) INFO: Checking for physical memory
+2022-11-21 13:54:59.419 11128:00000001 (BlueStacksInstaller) INFO: Available: 7930 MB, Required: 1024 MB
+2022-11-21 13:54:59.430 11128:00000001 (BlueStacksInstaller) INFO: HDD space available InstallDir: 189222 MB
+2022-11-21 13:54:59.433 11128:00000001 (BlueStacksInstaller) INFO: checking path:C:\ProgramData\BlueStacks_nxt and attr:-1..
+2022-11-21 13:54:59.435 11128:00000001 (BlueStacksInstaller) INFO: checking path:C:\ProgramData and attr:Hidden, Directory, NotContentIndexed..
+2022-11-21 13:54:59.435 11128:00000001 (BlueStacksInstaller) INFO: checking path:C:\Users\arunk\AppData\Local\Temp\ and attr:Directory..
+2022-11-21 13:54:59.435 11128:00000001 (BlueStacksInstaller) INFO: checking path:C:\Users\arunk\AppData\Local\Temp and attr:Directory..
+2022-11-21 13:54:59.435 11128:00000001 (BlueStacksInstaller) INFO: checking path:C:\Users\arunk\AppData\Local and attr:Directory..
+2022-11-21 13:54:59.435 11128:00000001 (BlueStacksInstaller) INFO: checking path:C:\Users\arunk\AppData and attr:Hidden, Directory..
+2022-11-21 13:54:59.435 11128:00000001 (BlueStacksInstaller) INFO: checking path:C:\Users\arunk and attr:Directory..
+2022-11-21 13:54:59.435 11128:00000001 (BlueStacksInstaller) INFO: checking path:C:\Users and attr:ReadOnly, Directory..
+2022-11-21 13:54:59.435 11128:00000001 (BlueStacksInstaller) INFO: Data and InstallDir same: True
+2022-11-21 13:54:59.435 11128:00000001 (BlueStacksInstaller) INFO: Space required InstallDir: 1300 MB
+2022-11-21 13:54:59.435 11128:00000001 (BlueStacksInstaller) INFO: Space required DataDir: 5120 MB
+2022-11-21 13:54:59.435 11128:00000001 (BlueStacksInstaller) INFO: Space required total: 6420
+2022-11-21 13:54:59.435 11128:00000001 (BlueStacksInstaller) INFO: Space available: 189222 MB
+2022-11-21 13:54:59.443 11128:00000001 (BlueStacksInstaller) INFO: Temp download path: C:\Users\arunk\AppData\Local\Temp\BlueStacksInstaller_5.9.410.2001_native_62b4bc488618ed2cc0adf41c4a869122_MDs1LDE7MTUsMzsxNQ==.exe
+2022-11-21 13:54:59.443 11128:00000001 (BlueStacksInstaller) INFO: Installer file path: C:\Users\arunk\AppData\Local\BlueStacksSetup\BlueStacksInstaller_5.9.410.2001_native_62b4bc488618ed2cc0adf41c4a869122_MDs1LDE7MTUsMzsxNQ==.exe
+2022-11-21 13:54:59.443 11128:00000017 (BlueStacksInstaller) INFO: Will download images later: Nougat32
+2022-11-21 13:54:59.443 11128:00000017 (BlueStacksInstaller) INFO: Starting downloader of BSX
+2022-11-21 13:54:59.447 11128:00000017 (BlueStacksInstaller) INFO: Downloading BSX installer at C:\Users\arunk\AppData\Local\BlueStacksSetup\BSX-Setup-5.9.410.2001.exe
+2022-11-21 13:55:02.167 11128:00000009 (BlueStacksInstaller) INFO: LastRecorded: 0, Downloaded: 1679574
+2022-11-21 13:55:07.178 11128:0000000A (BlueStacksInstaller) INFO: LastRecorded: 1679574, Downloaded: 11679952
+2022-11-21 13:55:12.190 11128:0000000C (BlueStacksInstaller) INFO: LastRecorded: 11679952, Downloaded: 18418366
+2022-11-21 13:55:17.213 11128:0000000B (BlueStacksInstaller) INFO: LastRecorded: 18418366, Downloaded: 24333318
+2022-11-21 13:55:22.215 11128:0000000C (BlueStacksInstaller) INFO: LastRecorded: 24333318, Downloaded: 34287082
+2022-11-21 13:55:27.230 11128:00000009 (BlueStacksInstaller) INFO: LastRecorded: 34287082, Downloaded: 46359942
+2022-11-21 13:55:32.238 11128:0000000C (BlueStacksInstaller) INFO: LastRecorded: 46359942, Downloaded: 57297702
+2022-11-21 13:55:37.239 11128:00000009 (BlueStacksInstaller) INFO: LastRecorded: 57297702, Downloaded: 67996552
+2022-11-21 13:55:42.249 11128:0000000A (BlueStacksInstaller) INFO: LastRecorded: 67996552, Downloaded: 83228788
+2022-11-21 13:55:47.265 11128:0000000C (BlueStacksInstaller) INFO: LastRecorded: 83228788, Downloaded: 98286826
+2022-11-21 13:55:52.279 11128:0000000A (BlueStacksInstaller) INFO: LastRecorded: 98286826, Downloaded: 115326630
+2022-11-21 13:55:57.280 11128:00000009 (BlueStacksInstaller) INFO: LastRecorded: 115326630, Downloaded: 126748060
+2022-11-21 13:56:02.290 11128:0000000A (BlueStacksInstaller) INFO: LastRecorded: 126748060, Downloaded: 135627658
+2022-11-21 13:56:07.297 11128:00000009 (BlueStacksInstaller) INFO: LastRecorded: 135627658, Downloaded: 143779182
+2022-11-21 13:56:10.657 11128:00000001 (BlueStacksInstaller) WARNING: Returning a null image for Assets\installer_logo_hover.png
+2022-11-21 13:56:12.297 11128:0000000A (BlueStacksInstaller) INFO: LastRecorded: 143779182, Downloaded: 153596626
+2022-11-21 13:56:17.302 11128:00000010 (BlueStacksInstaller) INFO: LastRecorded: 153596626, Downloaded: 164369858
+2022-11-21 13:56:19.222 11128:00000017 (BlueStacksInstaller) INFO: Downloading Nougat32 at C:\ProgramData\Nougat32_5.9.410.2001.7z
+2022-11-21 13:56:19.222 11128:00000008 (BlueStacksInstaller) INFO: Starting installation of BSX
+2022-11-21 13:56:19.222 11128:00000008 (BlueStacksInstaller) INFO: C:\Users\arunk\AppData\Local\BlueStacksSetup\BSX-Setup-5.9.410.2001.exe -s
+2022-11-21 13:56:22.309 11128:00000010 (BlueStacksInstaller) INFO: LastRecorded: 164369858, Downloaded: 5830968
+2022-11-21 13:56:27.313 11128:0000000A (BlueStacksInstaller) INFO: LastRecorded: 5847352, Downloaded: 20668602
+2022-11-21 13:56:32.332 11128:00000010 (BlueStacksInstaller) INFO: LastRecorded: 20668602, Downloaded: 33616906
+2022-11-21 13:56:37.345 11128:0000000C (BlueStacksInstaller) INFO: LastRecorded: 33616906, Downloaded: 40738456
+2022-11-21 13:56:37.544 11128:00000008 (BlueStacksInstaller) INFO: C:\Users\arunk\AppData\Local\BlueStacksSetup\BSX-Setup-5.9.410.2001.exe exited with ExitCode: 0
+2022-11-21 13:56:42.367 11128:0000000C (BlueStacksInstaller) INFO: LastRecorded: 40738456, Downloaded: 51874674
+2022-11-21 13:56:47.381 11128:0000000C (BlueStacksInstaller) INFO: LastRecorded: 51874674, Downloaded: 65590958
+2022-11-21 13:56:52.383 11128:0000000C (BlueStacksInstaller) INFO: LastRecorded: 65590958, Downloaded: 72935056
+2022-11-21 13:56:57.391 11128:0000000A (BlueStacksInstaller) INFO: LastRecorded: 72935056, Downloaded: 79282000
+2022-11-21 13:57:02.397 11128:0000000B (BlueStacksInstaller) INFO: LastRecorded: 79282000, Downloaded: 90092512
+2022-11-21 13:57:02.576 11128:00000001 (BlueStacksInstaller) INFO: ExitApplication -1
+2022-11-21 13:57:03.883 13124:00000001 (BlueStacksInstaller) INFO: ExitApplication -1
+2022-11-21 13:57:07.828 7416:00000001 (BlueStacksInstaller) ERROR: Couldnt start MI as admin. Ex: System.ComponentModel.Win32Exception (0x80004005): The operation was canceled by the user
+   at System.Diagnostics.Process.StartWithShellExecuteEx(ProcessStartInfo startInfo)
+   at BlueStacks.MicroInstaller.App.RunAdminInstallerAndExit()
+2022-11-21 13:57:10.819 7416:00000001 (BlueStacksInstaller) INFO: Uploading C:\Users\arunk\AppData\Local\BlueStacks\BlueStacksMicroInstaller_5.9.410.2001.log to https://cloud.bluestacks.com/_ah/upload/AMmfu6Y9_I0xzSxy3LDn0lGOkNem_v1BJYaGRWbN0UrnYKbBZ6DpyNHCjCC_T4HPD8e7CTlQ5uFSpm2s37RkTM3tjL-ZV_d-3vnPQgV1nAIqSL5pLGJgclPHDPNiFyxSr5gqbLPblFSLLpz9Dv4P8LCLPjP5GqhEzNl4rkViHjqPum11k44PX9I/ALBNUaYAAAAAY3s4taf07EzEMts8bd2pLlkXHp2uxmej/
+2022-11-21 13:57:13.685 7416:00000001 (BlueStacksInstaller) INFO: File uploaded, server response is: 
+2022-11-21 13:57:13.686 7416:00000001 (BlueStacksInstaller) INFO: ExitApplication 6
+2022-11-30 20:12:22.243 236:00000001 (BlueStacksInstaller) INFO: Successfully populated en-US strings
+2022-11-30 20:12:22.243 236:00000001 (BlueStacksInstaller) INFO: Successfully populated en-US strings
+2022-11-30 20:12:22.259 236:00000006 (BlueStacksInstaller) INFO: Old BGP version: 
+2022-11-30 20:12:22.259 236:00000006 (BlueStacksInstaller) INFO: Arabica version: 
+2022-11-30 20:12:22.270 236:00000001 (BlueStacksInstaller) INFO: Launching C:\Users\arunk\AppData\Local\Temp\7zS412D3584\:BlueStacksInstaller.exe "BlueStacksInstaller_5.9.410.2001_native_62b4bc488618ed2cc0adf41c4a869122_MDs1LDE7MTUsMzsxNQ==.exe"
+2022-11-30 20:12:22.287 236:00000006 (BlueStacksInstaller) INFO: vtx state of the machine: enabled
+2022-11-30 20:12:22.307 236:00000006 (BlueStacksInstaller) INFO: Parent FileName: BlueStacksInstaller_5.9.410.2001_native_62b4bc488618ed2cc0adf41c4a869122_MDs1LDE7MTUsMzsxNQ==.exe
+2022-11-30 20:12:22.307 236:00000006 (BlueStacksInstaller) INFO: Parsing: 62b4bc488618ed2cc0adf41c4a869122_MDs1LDE7MTUsMzsxNQ==
+2022-11-30 20:12:22.311 236:00000006 (BlueStacksInstaller) INFO: Getting installed images from conf
+2022-11-30 20:12:22.311 236:00000006 (BlueStacksInstaller) INFO: Installed images: 
+2022-11-30 20:12:22.313 236:00000006 (BlueStacksInstaller) INFO: Getting installed images from conf
+2022-11-30 20:12:22.319 236:00000006 (BlueStacksInstaller) INFO: Installed images with abi: 
+2022-11-30 20:12:22.321 236:00000006 (BlueStacksInstaller) INFO: Updating DefaultImageName to Nougat32
+2022-11-30 20:12:22.321 236:00000006 (BlueStacksInstaller) INFO: Updating ImageToLaunch to Nougat32
+2022-11-30 20:12:22.321 236:00000006 (BlueStacksInstaller) INFO: Campaign: 62b4bc488618ed2cc0adf41c4a869122, AppName: , Image: Nougat32
+2022-11-30 20:12:22.321 236:00000006 (BlueStacksInstaller) INFO: Sending event mi_launched
+2022-11-30 20:12:23.214 236:00000006 (BlueStacksInstaller) INFO: Response for event mi_launched: {"fle_obj": {"app_url": "", "bsx_data": "{}", "app_name": "", "incompatible": "false", "app_icon_url": "", "fle_tag": "", "campaign_name": "homepage-dl-button-en", "exit_utm_campaign": "homepage-dl-button-en", "app_pkg": "", "promoter_id": ""}}
+2022-11-30 20:12:25.788 236:00000001 (BlueStacksInstaller) ERROR: Couldnt start MI as admin. Ex: System.ComponentModel.Win32Exception (0x80004005): The operation was canceled by the user
+   at System.Diagnostics.Process.StartWithShellExecuteEx(ProcessStartInfo startInfo)
+   at BlueStacks.MicroInstaller.App.RunAdminInstallerAndExit()
+2022-11-30 20:12:30.415 236:00000001 (BlueStacksInstaller) INFO: Uploading C:\Users\arunk\AppData\Local\BlueStacks\BlueStacksMicroInstaller_5.9.410.2001.log to https://cloud.bluestacks.com/_ah/upload/AMmfu6akJZhmwQbKVwErvYQJ83FrZ6C18BJFUzyPpgrSapgSS4fcDz_u-MLjEF2PgWmGULmMY8ioIvuHNYKvLiys8bcNAmFIIGY7ChuaCESD2EG8aSWOSUqcCpUgPWT5Ytv9cRLJx9iUT7qqqCd7V_v0Kv4b1Mae9lNYCTnK-RyGeiVU0wjGWRE/ALBNUaYAAAAAY4duLo8ZLJyWEfNdETDBp61S1fHYIbph/
+2022-11-30 20:12:32.812 236:00000001 (BlueStacksInstaller) INFO: File uploaded, server response is: 
+2022-11-30 20:12:32.812 236:00000001 (BlueStacksInstaller) INFO: ExitApplication 6

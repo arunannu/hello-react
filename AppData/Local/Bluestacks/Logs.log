@@ -1,0 +1,38 @@
+﻿2022-11-20 04:48:42.496 12644:00000001 (Unknown) INFO: Finding closest locale match to en-IN
+2022-11-20 04:48:42.497 12644:00000001 (BlueStacksInstaller) INFO: Match found by ISO language name: en-US
+2022-11-20 04:48:43.873 3492:00000001 (Unknown) INFO: Finding closest locale match to en-IN
+2022-11-20 04:48:43.874 3492:00000001 (BlueStacksInstaller) INFO: Match found by ISO language name: en-US
+2022-11-20 04:48:44.439 15548:00000001 (BlueStacksInstaller) INFO: UserCountry resp: {"country": "IN", "latlong": "26.846694,80.946166"}
+2022-11-20 04:48:44.470 15548:00000001 (BlueStacksInstaller) INFO: Using cloud host: https://cloud.bluestacks.com
+2022-11-20 04:48:45.354 12644:00000001 (BlueStacksInstaller) INFO: UserCountry resp: {"country": "IN", "latlong": "26.846694,80.946166"}
+2022-11-20 04:48:45.372 12644:00000001 (BlueStacksInstaller) INFO: Using cloud host: https://cloud.bluestacks.com
+2022-11-20 04:48:46.372 3492:00000001 (BlueStacksInstaller) INFO: UserCountry resp: {"country": "IN", "latlong": "26.846694,80.946166"}
+2022-11-20 04:48:46.382 3492:00000001 (BlueStacksInstaller) INFO: Using cloud host: https://cloud.bluestacks.com
+2022-11-20 04:49:14.470 15196:00000001 (Unknown) INFO: Finding closest locale match to en-IN
+2022-11-20 04:49:14.470 15196:00000001 (BlueStacksInstaller) INFO: Match found by ISO language name: en-US
+2022-11-20 04:49:15.545 15196:00000001 (BlueStacksInstaller) INFO: UserCountry resp: {"country": "IN", "latlong": "26.846694,80.946166"}
+2022-11-20 04:49:15.576 15196:00000001 (BlueStacksInstaller) INFO: Using cloud host: https://cloud.bluestacks.com
+2022-11-21 13:54:44.447 13124:00000001 (Unknown) INFO: Finding closest locale match to en-IN
+2022-11-21 13:54:44.447 13124:00000001 (BlueStacksInstaller) INFO: Match found by ISO language name: en-US
+2022-11-21 13:54:46.439 13124:00000001 (BlueStacksInstaller) INFO: UserCountry resp: {"country": "IN", "latlong": "26.846694,80.946166"}
+2022-11-21 13:54:46.455 13124:00000001 (BlueStacksInstaller) INFO: Using cloud host: https://cloud.bluestacks.com
+2022-11-21 13:54:47.272 5860:00000001 (Unknown) INFO: Finding closest locale match to en-IN
+2022-11-21 13:54:47.273 5860:00000001 (BlueStacksInstaller) INFO: Match found by ISO language name: en-US
+2022-11-21 13:54:47.313 7416:00000001 (Unknown) INFO: Finding closest locale match to en-IN
+2022-11-21 13:54:47.313 7416:00000001 (BlueStacksInstaller) INFO: Match found by ISO language name: en-US
+2022-11-21 13:54:49.273 5860:00000001 (BlueStacksInstaller) INFO: UserCountry resp: {"country": "IN", "latlong": "26.846694,80.946166"}
+2022-11-21 13:54:49.287 5860:00000001 (BlueStacksInstaller) INFO: Using cloud host: https://cloud.bluestacks.com
+2022-11-21 13:54:49.655 11128:00000001 (Unknown) INFO: Finding closest locale match to en-IN
+2022-11-21 13:54:49.655 11128:00000001 (BlueStacksInstaller) INFO: Match found by ISO language name: en-US
+2022-11-21 13:54:50.058 7416:00000001 (BlueStacksInstaller) INFO: UserCountry resp: {"country": "IN", "latlong": "26.846694,80.946166"}
+2022-11-21 13:54:50.075 7416:00000001 (BlueStacksInstaller) INFO: Using cloud host: https://cloud.bluestacks.com
+2022-11-21 13:54:50.524 11128:00000001 (BlueStacksInstaller) INFO: UserCountry resp: {"country": "IN", "latlong": "26.846694,80.946166"}
+2022-11-21 13:54:50.536 11128:00000001 (BlueStacksInstaller) INFO: Using cloud host: https://cloud.bluestacks.com
+2022-11-21 13:54:51.349 10564:00000001 (Unknown) INFO: Finding closest locale match to en-IN
+2022-11-21 13:54:51.350 10564:00000001 (BlueStacksInstaller) INFO: Match found by ISO language name: en-US
+2022-11-21 13:54:52.141 10564:00000001 (BlueStacksInstaller) INFO: UserCountry resp: {"country": "IN", "latlong": "26.846694,80.946166"}
+2022-11-21 13:54:52.165 10564:00000001 (BlueStacksInstaller) INFO: Using cloud host: https://cloud.bluestacks.com
+2022-11-30 20:12:20.166 236:00000001 (Unknown) INFO: Finding closest locale match to en-IN
+2022-11-30 20:12:20.166 236:00000001 (BlueStacksInstaller) INFO: Match found by ISO language name: en-US
+2022-11-30 20:12:22.136 236:00000001 (BlueStacksInstaller) INFO: UserCountry resp: {"country": "IN", "latlong": "26.846694,80.946166"}
+2022-11-30 20:12:22.165 236:00000001 (BlueStacksInstaller) INFO: Using cloud host: https://cloud.bluestacks.com

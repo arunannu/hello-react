@@ -1,0 +1,51 @@
+2022-11-20 05:23:31.098+0530 12668 14308 BRIDGE Uninstaller_bridge I: bridgeApiInitEx:#################### In bridgeApiInit Uninstaller ###############
+2022-11-20 05:23:31.099+0530 12668 14308 BRIDGE Uninstaller_bridge I: Loading configuration ...
+2022-11-20 05:23:31.101+0530 12668 14308 BRIDGE Uninstaller_bridge I: Configuration loaded successfully...
+﻿2022-11-20 05:23:31.116 12668:00000001 (BlueStacksUninstaller) INFO: Updating Strings.ImageName: 
+2022-11-20 05:23:31.120 12668:00000001 (BlueStacksUninstaller) INFO: Copying C:\Program Files\BlueStacks_nxt\Assets to C:\Users\arunk\AppData\Local\Temp\Assets
+2022-11-20 05:23:31.147 12668:00000001 (BlueStacksUninstaller) INFO: Copying files from C:\Program Files\BlueStacks_nxt\ to C:\Users\arunk\AppData\Local\Temp\
+2022-11-20 05:23:31.168 12668:00000001 (BlueStacksUninstaller) WARNING: C:\Program Files\BlueStacks_nxt\ucrtbase.dll does not exist so could not be copied.
+2022-11-20 05:23:31.214 12668:00000001 (BlueStacksUninstaller) INFO: Copying C:\ProgramData\BlueStacks_nxt\Engine\Oem.cfg
+2022-11-20 05:23:31.216 12668:00000001 (BlueStacksUninstaller) INFO: Copying theme file
+2022-11-20 05:23:31.221 12668:00000001 (BlueStacksUninstaller) INFO: All files copied, starting File exectuion from temp path
+2022-11-20 05:23:31.962 12668:00000001 (BlueStacksUninstaller) INFO: Main unistall process started, exiting current application.
+2022-11-20 05:23:32.069+0530 8276  1416  BRIDGE Uninstaller_bridge I: bridgeApiInitEx:#################### In bridgeApiInit Uninstaller ###############
+2022-11-20 05:23:32.069+0530 8276  1416  BRIDGE Uninstaller_bridge I: Loading configuration ...
+2022-11-20 05:23:32.071+0530 8276  1416  BRIDGE Uninstaller_bridge I: Configuration loaded successfully...
+2022-11-20 05:23:32.079 8276:00000001 (BlueStacksUninstaller) INFO: Updating Strings.ImageName: 
+2022-11-20 05:23:32.111 8276:00000001 (BlueStacksUninstaller) INFO: Assigning hypervisor
+2022-11-20 05:23:32.112 8276:00000001 (BlueStacksUninstaller) INFO: Current Hypervisor: vbox
+2022-11-20 05:23:32.398 8276:00000001 (BlueStacksUninstaller) INFO: Successfully populated en-US strings
+2022-11-20 05:23:37.124 8276:00000001 (BlueStacksUninstaller) WARNING: Returning a null image for unchecked_gray_click
+2022-11-20 05:23:39.537 8276:00000001 (BlueStacksUninstaller) WARNING: Returning a null image for bluestacks
+2022-11-20 05:23:41.805 8276:00000007 (BlueStacksUninstaller) INFO: Killing all BlueStacks processes
+2022-11-20 05:23:41.824 8276:00000007 (BlueStacksUninstaller) INFO: Attempting to kill: HD-Player
+2022-11-20 05:23:41.887 8276:00000007 (BlueStacksUninstaller) INFO: Attempting to kill: HD-Player
+2022-11-20 05:23:41.910 8276:00000007 (BlueStacksUninstaller) INFO: Attempting to kill: HD-Player
+2022-11-20 05:23:41.924 8276:00000007 (BlueStacksUninstaller) INFO: Attempting to kill: BstkSVC
+2022-11-20 05:23:41.931 8276:00000007 (BlueStacksUninstaller) INFO: Stopping service BlueStacksDrv_nxt with timeout 15s
+2022-11-20 05:23:41.932 8276:00000007 (BlueStacksUninstaller) INFO: Service is running , stopping the service BlueStacksDrv_nxt
+2022-11-20 05:23:41.957 8276:00000007 (BlueStacksUninstaller) INFO: Service stopped successfully
+2022-11-20 05:23:41.959 8276:00000007 (BlueStacksUninstaller) INFO: RunCmd: Starting: schtasks.exe /Delete /TN BlueStacksHelper_nxt /F
+2022-11-20 05:23:42.006 8276:00000008 (BlueStacksUninstaller) INFO: 12404 OUT: SUCCESS: The scheduled task "BlueStacksHelper_nxt" was successfully deleted.
+2022-11-20 05:23:42.009 8276:00000007 (BlueStacksUninstaller) INFO: RunCmd for pid: 12404, exited with ExitCode: 0 
+2022-11-20 05:23:42.009 8276:00000007 (BlueStacksUninstaller) INFO: RunCmd: Starting: schtasks.exe /Delete /TN BlueStacksHelperTask /F
+2022-11-20 05:23:42.051 8276:00000009 (BlueStacksUninstaller) ERROR: 9952 ERR: ERROR: The system cannot find the file specified.
+2022-11-20 05:23:42.054 8276:00000007 (BlueStacksUninstaller) INFO: RunCmd for pid: 9952, exited with ExitCode: 1 
+2022-11-20 05:23:42.054 8276:00000007 (BlueStacksUninstaller) ERROR: An error occured while deleting the task, exit code: 1
+2022-11-20 05:23:42.057 8276:00000007 (BlueStacksUninstaller) INFO: Deleting directory: C:\Program Files\BlueStacks_nxt\
+2022-11-20 05:23:42.112 8276:00000007 (BlueStacksUninstaller) INFO: Deleting directory: C:\ProgramData\BlueStacks_nxt
+2022-11-20 05:23:42.218 8276:00000007 (BlueStacksUninstaller) INFO: Deleting directory: C:\Users\arunk\AppData\Local\BlueStacksSetup
+2022-11-20 05:23:42.275 8276:00000007 (BlueStacksUninstaller) INFO: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\BlueStacks 5 Multi-Instance Manager.lnk is a shortcut for target c:\program files\bluestacks_nxt\
+2022-11-20 05:23:42.276 8276:00000007 (BlueStacksUninstaller) INFO: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\BlueStacks 5.lnk is a shortcut for target c:\program files\bluestacks_nxt\
+2022-11-20 05:23:42.307 8276:00000007 (BlueStacksUninstaller) INFO: Uninstalling driver BlueStacksDrv_nxt
+2022-11-20 05:23:42.307 8276:00000007 (BlueStacksUninstaller) INFO: Stopping service BlueStacksDrv_nxt with timeout 15s
+2022-11-20 05:23:42.308 8276:00000007 (BlueStacksUninstaller) INFO: Service BlueStacksDrv_nxt stopped
+2022-11-20 05:23:42.309 8276:00000007 (BlueStacksUninstaller) INFO: RunCmd: Starting: cmd.exe /c "sc.exe delete BlueStacksDrv_nxt"
+2022-11-20 05:23:42.382 8276:00000008 (BlueStacksUninstaller) INFO: 5280 OUT: [SC] DeleteService SUCCESS
+2022-11-20 05:23:42.389 8276:00000007 (BlueStacksUninstaller) INFO: RunCmd for pid: 5280, exited with ExitCode: 0 
+2022-11-20 05:23:42.390 8276:00000007 (BlueStacksUninstaller) INFO: DeleteInstallApkScheme start
+2022-11-20 05:23:42.391 8276:00000007 (BlueStacksUninstaller) INFO: DeleteInstallApkScheme end
+2022-11-20 05:23:42.391 8276:00000007 (BlueStacksUninstaller) INFO: DeleteInstallApkScheme start
+2022-11-20 05:23:42.394 8276:00000007 (BlueStacksUninstaller) INFO: DeleteInstallApkScheme end
+2022-11-20 05:23:43.404 8276:00000001 (BlueStacksUninstaller) INFO: uninstallation clean value : 0
